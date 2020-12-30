@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule "" "index.php"
+RewriteRule "Edit" "index.php?MaHoa=edit"
+RewriteRule "List" "index.php?MaHoa=list"
